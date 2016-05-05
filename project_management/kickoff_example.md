@@ -1,6 +1,6 @@
 # Kickoff Meetings 
 ## Philosophy
-Whenever possible we like to do some groundwork to hear what a project should cover from internal stakeholders, our team, and potential users prior to having a kickoff meeting. This may also include some additional background work to better understand the project landscape depending on the project. Below is a sample agenda. Some of the exercises can be found at http://goodkickoffmeetings.com. Kevin M. Hoffman also has some great philosphy/context in tis article: http://alistapart.com/article/kick-ass-kickoff-meetings.
+Whenever possible we like to do some groundwork to hear what a project should cover from internal stakeholders, our team, and potential users prior to having a kickoff meeting. This may also include some additional background work to better understand the project landscape depending on the project. Below is a sample agenda. Some of the exercises can be found at http://goodkickoffmeetings.com. [Kevin M. Hoffman](https://twitter.com/kevinmhoffman) also has some [great philosphy/context in this article](http://alistapart.com/article/kick-ass-kickoff-meetings).
 
 ## Sample Agenda
 Over the next day and a half together we hope to get a better understanding around:
